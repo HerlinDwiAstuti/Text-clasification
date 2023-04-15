@@ -1,2 +1,1 @@
-# Text-clasification
-Klasifikasi Skripsi Using Naive Bayes
+# Klasifikasi Skripsi Using Naive Bayes
